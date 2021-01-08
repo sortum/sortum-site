@@ -1,4 +1,4 @@
-### Sortum
+### Sortum - the missing element of your sorting algorithm.
 
 <!-- ## Welcome to GitHub Pages
 
